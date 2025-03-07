@@ -20,16 +20,16 @@ Lern-Periode 9
 
 ## 21.02.2025
 
-- [ ]  Ideen sammeln, falls ich bis dahin noch keine habe, sonst anfangen.
+- [x]  Ideen sammeln, falls ich bis dahin noch keine habe, sonst anfangen.
 
-- [ ] An der MAUI App arbeiten
+- [x] An der MAUI App arbeiten
 
-- [ ] Am MAUI-Projekt fortfahren
+- [x] Am MAUI-Projekt fortfahren
 
-- [ ] Am MAUI-Projekt fortfahren
+- [x] Am MAUI-Projekt fortfahren
 
+Heute habe ich angefangen, mit MAUI zu arbeiten. Als Einstiegsprojekt, habe ich beschlossen, einen Taschenrechner zu machen, ich bin jedoch heute nicht fertig geworden und werde nächstes Mal daran weiterarbeiten. Das C# ist eigentlich gleich, aber was anderst ist, ist das .xaml, das mir noch komplett fremd ist. Es ist aber keine richtige Programmiersprache, sondern eine Markup-Language. (57 Wörter)
 
-
-## ...
+## 
 
 
