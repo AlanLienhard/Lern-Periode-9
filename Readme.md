@@ -30,6 +30,19 @@ Lern-Periode 9
 
 Heute habe ich angefangen, mit MAUI zu arbeiten. Als Einstiegsprojekt, habe ich beschlossen, einen Taschenrechner zu machen, ich bin jedoch heute nicht fertig geworden und werde nächstes Mal daran weiterarbeiten. Das C# ist eigentlich gleich, aber was anderst ist, ist das .xaml, das mir noch komplett fremd ist. Es ist aber keine richtige Programmiersprache, sondern eine Markup-Language. (57 Wörter)
 
-## 
+## 28.02.2025
 
+- [ ] Am MAUI-Taschenrechner weiterarbeiten.
+- [ ] Am Taschenrechner fortfahren.
+- [ ] Den Taschenrechner abschliessen.
+- [ ] Ein neues .NET MAUI Projekt suchen und anfangen.
+
+Ich war heute krank, deshalb konnte ich nicht an den Arbeitspaketen arbeiten und die gleichen Arbeitspakte werden dann für nächste Woche übernommen.
+
+## 07.03.2025
+
+- [ ] Am MAUI-Taschenrechner weiterarbeiten.
+- [ ] Am Taschenrechner fortfahren.
+- [ ] Den Taschenrechner abschliessen.
+- [ ] Ein neues .NET MAUI Projekt suchen und anfangen.
 
