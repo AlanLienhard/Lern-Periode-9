@@ -41,8 +41,9 @@ Ich war heute krank, deshalb konnte ich nicht an den Arbeitspaketen arbeiten und
 
 ## 07.03.2025
 
-- [ ] Am MAUI-Taschenrechner weiterarbeiten.
-- [ ] Am Taschenrechner fortfahren.
-- [ ] Den Taschenrechner abschliessen.
-- [ ] Ein neues .NET MAUI Projekt suchen und anfangen.
+- [x] Am MAUI-Taschenrechner weiterarbeiten.
+- [x] Am Taschenrechner fortfahren.
+- [x] Den Taschenrechner abschliessen.
+- [x] Ein neues .NET MAUI Projekt suchen und anfangen.
 
+Ich konnte mit dem Taschenrechner-Projekt abschliessen. Der Taschenrechner kann Grundopertationen (Additionen, Subtraktionen, Multiplikationen und Divisionen) durchführen. .NET-MAUI ist mir dank diesem Projekt ein bisschen bekannter geworden. Vor allem fand ich es anfangs verwirrend/umständlich, dass ich in der .cs Datei programmieren sollte, aber auch in der .xaml Datei. Ich wusste auch anfangs nicht, was man alles in der .xaml Datei machen sollte, und was in der .cs. Als nächstes .NET-MAUI Projekt, dachte ich mir, dass ich einen Kalender mache, bei dem man auch Termine einfügen und evtl. auch speichern kann. (89 Wörter)
