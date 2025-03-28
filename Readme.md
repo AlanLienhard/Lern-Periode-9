@@ -60,9 +60,19 @@ Die Packages konnten auch gut installiert werden (es gibt Calendar Packages). Me
 
 ## 21.03.2025
 
-- [ ] Den Selector so anpassen, dass ich mehrere Tage auf ein Mal durch Sliden auswählen kann.
-- [ ] Einrichten, dass ich Termine eintragen kann.
+- [x] Den Selector so anpassen, dass ich mehrere Tage auf ein Mal durch Sliden auswählen kann.
+- [x] Einrichten, dass ich Termine eintragen kann.
 - [ ] Einrichten, dass ich Termine eintragen kann.
 - [ ] Termine speichern lassen.
+
+Ich habe an allen Arbeitspaketen gearbeitet, habe sie jedoch nicht erreicht/erfüllt, deshalb habe ich die letzten Zwei nicht ausgefüllt. Dem Selector das Sliden zu ermöglichen, sowie das Anfangen des Eintragen der Termine, daurte länger als gedacht, und ich bin mit Letzterem nicht ganz fertig geworden.
+Nächstes Mal, werde ich mit Amar Nuhija an der LB von Frau Rapisarda beim Modul M426 in Partnerarbeit arbeiten und noch einen oder zwei Aufträge im Modul M114 machen. (74 Wörter)
+
+## 28.03. 2025
+
+- [ ] An der LB M426 arbeiten
+- [ ] An der LB M426 arbeiten
+- [ ] An der LB M426 arbeiten
+- [ ] Am Modul M114 arbeiten
 
       
