@@ -70,9 +70,9 @@ Nächstes Mal, werde ich mit Amar Nuhija an der LB von Frau Rapisarda beim Modul
 
 ## 28.03. 2025
 
-- [ ] An der LB M426 arbeiten
-- [ ] An der LB M426 arbeiten
-- [ ] An der LB M426 arbeiten
-- [ ] Am Modul M114 arbeiten
+- [x] An der LB M426 arbeiten
+- [x] An der LB M426 arbeiten
+- [x] An der LB M426 arbeiten
+- [x] Am Modul M114 arbeiten
 
-      
+
